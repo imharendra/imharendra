@@ -1,7 +1,10 @@
-### Welcome Visitor ✨💖
-- 🌟 Programming Language- JAVA with DSA.
+## Hii I am Harendra Singh
+- 🎓 Currently pursuing my B.Tech in Compute Science & Engineering from GL Bajaj group of Institutions Mathura.
+- ✉  You can contact me at imxharendra@gmail.com or visit at https://harendra.web.app/
+- 🧠 I am an open-source enthusiast and learning Mern-stack along with other skills like Java, Javascript and C.
+- 🌱 I’m currently focusing on DSA.
 - 🌟 I have published 120+ articles on GFG.
-- 🌟 I have solved 250+ problems on across platforms.
-- 🌱 I’m currently learning - Frontend Development.
-- 🎖️ I having 4⭐ in JAVA on HackerRank.
+- 🌟 I have solved 350+ problems on across platforms.
+-👯 I’m looking forward to be a part of various interesting projects.
+-🤝 I’m eager to know about opportunities which will help me in expanding my potential.
 ### Thank you.
